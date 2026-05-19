@@ -1,4 +1,4 @@
----
+
 
 # 📚 Automação de Estudos Teóricos (Anti-Distração)
 
@@ -43,7 +43,7 @@ shutdown /s /t 0 /f
 
 O computador é desligado imediatamente em 0 segundos, forçando o fechamento de qualquer outra atividade pendente, consolidando o fim do período de estudos.
 
----
+
 
 ## 🛠️ Personalização dos Sites
 
